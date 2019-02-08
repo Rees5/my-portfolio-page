@@ -1,0 +1,52 @@
+.details {
+  float: right;
+  margin-right: 820px;
+  margin-top: 2px
+}
+.details {
+  color: white;
+  background-color: #0b160b
+}
+h2 {
+  color: white;
+  border: 6px solid #420f3e;
+  margin: 2px;
+  padding: 6px;
+  background-color: #0f2242
+}
+  margin-right: 1000px
+#img{
+  margin-left: 6px;
+  border: 5px solid brown;
+}
+.projects {
+  margin-top: 50px;
+}
+.details {
+  border: 3px solid #0b160b;
+}
+body {
+  background-color: #0b160b
+}
+.bio {
+  margin: 1px;
+  border: 6px solid brown;
+  color: steelblue;
+  background-color: #0b160b;
+}
+p {
+  color: white;
+}
+.interests {
+  color: white;
+  border: 2px red;
+}
+h1 {
+  text-align: center;
+  color: white;
+  border: 6px solid #420f3e;
+  margin-right: 500px;
+  margin-left: 500px;
+  padding: 6px;
+  background-color: #0f2242
+}
