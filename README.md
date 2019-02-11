@@ -8,6 +8,6 @@ Rees Alumasa
  * Internet connection
  * A text editor
 #### Copyright and licence
-MIT License
-Copyright (c) 2019 Rees Alumasa
-* Link: https://rees5.github.io/my-portfolio/
+* MIT License
+* Copyright (c) 2019 Rees Alumasa
+* Link: https://rees5.github.io/my-portfolio-page/
